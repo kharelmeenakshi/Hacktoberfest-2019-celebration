@@ -54,6 +54,21 @@ I [anis dabdi](https://github.com/ansdb) recommend [Cool competitive programming
 
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Youtube](https://www.youtube.com/watch?v=IsLyduxZ9sc&list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E)
 
+
+#include<stdio.h>
+int main()
+{
+    char a[]= ("BIODATA");
+    printf ("%c",a);
+    char b[]= ("NAME:xyz");
+    printf ("%c",b);
+    char c[]= ("ROLL NO:436");
+    printf ("%c",c);
+
+}
+
+
+
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Udemy](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/)
 
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [W3Schools](https://www.w3schools.com/sql/)
